@@ -1,0 +1,23 @@
+# temp files
+.DS_Store
+.AppleDouble
+.LSOverride
+*~
+._*
+*.swp
+.Spotlight-V100
+.Trashes
+Icon
+
+# trash
+npm-debug.log
+.sass-cache
+
+# dependencies
+/node_modules/
+/vendor/
+
+# builds and temp
+/build/
+/tmp/
+/var/

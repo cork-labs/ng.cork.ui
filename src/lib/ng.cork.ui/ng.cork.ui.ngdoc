@@ -1,0 +1,29 @@
+@ngdoc overview
+@name ng.cork.ui
+@description
+
+> Main module, bundling several ui components and utils.
+
+# Dependencies
+
+- module **[ng.cork.ui.enter-click](#/api/ng.cork.ui.enter-click)** provided by [bower:ng.cork.ui.enter-click](https://github.com//cork-labs/ng.cork.ui.enter-click)
+- module **[ng.cork.ui.focus-on](#/api/ng.cork.ui.focus-on)** provided by [bower:ng.cork.ui.focus-on](https://github.com//cork-labs/ng.cork.ui.focus-on)
+- module **[ng.cork.ui.keys](#/api/ng.cork.ui.keys)** provided by [bower:ng.cork.ui.keys](https://github.com//cork-labs/ng.cork.ui.keys)
+- module **[ng.cork.ui.stop-propagation](#/api/ng.cork.ui.stop-propagation)** provided by [bower:stop-propagation](https://github.com//cork-labs/stop-propagation)
+- module **[ng.cork.ui.textarea-auto-resize](#/api/ng.cork.ui.textarea-auto-resize)** provided by [bower:ng.cork.ui.textarea-auto-resize](https://github.com//cork-labs/ng.cork.ui.textarea-auto-resize)
+
+
+
+# Usage
+
+Add this module as a dependency of your modules.
+
+<pre>
+angular.module('app', ['ng.cork.ui']);
+</pre>
+
+**NOTE:** Use this module as a dependency if you are using the entire library.
+
+You may otherwise wish to include just the modules you are using.
+
+See {@link #/guide Guide} to learn about file cherry-picking.

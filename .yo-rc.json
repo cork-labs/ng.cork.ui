@@ -1,0 +1,28 @@
+{
+  "generator-nglib": {
+    "project.name": "ng.cork.ui",
+    "project.description": "AngularJS opinionated ui components and utils",
+    "bower.id": "ng.cork.ui",
+    "npm.id": "ng.cork.ui",
+    "angular.module": "ng.cork.ui",
+    "has.tpl": false,
+    "has.css": false,
+    "has.less": false,
+    "has.sass": false,
+    "has.docs": true,
+    "use.git": true,
+    "github.username": "cork-labs",
+    "github.reponame": "ng.cork.ui",
+    "homepage.url": "https://github.com/cork-labs/ng.cork.ui",
+    "docs.url": "http://jarvis.cork-labs.org/ng.cork.ui/current/docs",
+    "bugs.url": "https://github.com/cork-labs/ng.cork.ui/issues",
+    "license.name": "MIT",
+    "license.url": "http://cork-labs.mit-license.org/2015",
+    "author.name": "Cork Labs",
+    "author.email": "contact@cork-labs.org",
+    "author.url": "http://cork-labs.org",
+    "use.travis": true,
+    "travis.id": "cork-labs/ng.cork.ui",
+    "repo.url": "git@github.com:cork-labs/ng.cork.ui.git"
+  }
+}

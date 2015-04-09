@@ -1,0 +1,21 @@
+@ngdoc overview
+@name API Reference
+@description
+
+# ng.cork.ui API Reference
+
+> Welcome to the **ng.cork.ui** API reference.
+
+If you want to know how **ng.cork.ui** works, checkout the {@link guide/ guide} and the {@link demos/ demos}.
+
+
+## Modules
+
+- **[ng.cork.ui](#/api/ng.cork.ui)** - Main module, bundling several ui components and utils.
+  - **[ng.cork.ui.enter-click](#/api/ng.cork.ui.enter-click)** - A directive that converts "Enter" keypress events into click events.
+  - **[ng.cork.ui.focus-on](#/api/ng.cork.ui.focus-on)** - A directive to set element focus on scope message or on render.
+  - **[ng.cork.ui.keys](#/api/ng.cork.ui.keys)** - A service to normalize key codes across browsers and match keys by tag
+  - **[ng.cork.ui.stop-propagation](#/api/ng.cork.ui.stop-propagation)** - A directive to stop propagation of selected events through the element.
+  - **[ng.cork.ui.textarea-auto-resize](#/api/ng.cork.ui.textarea-auto-resize)** - A directive to resize textareas on user input or programatic changes.
+
+
