@@ -200,15 +200,15 @@ module.exports = function (grunt, data) {
                     guide: {
                         src: ['docs/contents/guide/*.ngdoc'],
                         title: 'Guide',
-                        icon: 'book',
+                        icon: 'lightbulb',
                         priority: 1
                     },
-                    demos: {
-                        src: ['docs/contents/demos/*.ngdoc'],
-                        title: 'Demos',
-                        icon: 'eye-open',
-                        priority: 2
-                    },
+                    // demos: {
+                    //     src: ['docs/contents/demos/*.ngdoc'],
+                    //     title: 'Demos',
+                    //     icon: 'play-circle',
+                    //     priority: 2
+                    // },
                     api: {
                         src: ['<%= files.bundled_vendor_docs %>', 'src/**/*.js', '!src/**/*.spec.js', 'src/**/*.ngdoc', 'docs/contents/api/*.ngdoc'],
                         title: 'API',
