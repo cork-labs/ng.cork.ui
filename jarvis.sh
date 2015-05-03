@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # build tasks
-npm install && bower --allow-root update && grunt build && grunt docs
+export HOME="/tmp" && npm install && bower --allow-root update && grunt build && grunt docs
