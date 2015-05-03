@@ -1,3 +1,11 @@
+<a name="v0.0.9"></a>
+### v0.0.9 (2015-05-03)
+
+
+#### Bug Fixes
+
+* **build:** remove global deps from jarvis.sh ([768102af](git@github.com:cork-labs/ng.cork.ui/commit/768102afc7eaefaf5773525de16ce2a638f5ff7e))
+
 <a name="v0.0.8"></a>
 ### v0.0.8 (2015-05-03)
 

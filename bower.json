@@ -1,6 +1,6 @@
 {
   "name": "ng.cork.ui",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "AngularJS opinionated ui components and utils",
   "authors": [
     "Cork Labs <contact@cork-labs.org> (http://cork-labs.org)"
