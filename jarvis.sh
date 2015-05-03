@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # build tasks
-npm install && bower update && grunt build && grunt docs
+npm install && bower --allow-root update && grunt build && grunt docs
