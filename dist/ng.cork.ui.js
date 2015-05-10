@@ -1,5 +1,5 @@
 /**
- * ng.cork.ui - v0.0.9 - 2015-05-03
+ * ng.cork.ui - v0.0.10 - 2015-05-11
  * https://github.com/cork-labs/ng.cork.ui
  *
  * Copyright (c) 2015 Cork Labs <http://cork-labs.org>
